@@ -1,0 +1,58 @@
+div#AA {
+    background-color: aquamarine;
+    width: 150px;
+    height: 150px;
+}
+
+div#BB {
+    background-color: blue;
+    width: 150px;
+    height: 150px;
+    float: right;
+}
+
+div#CC {
+    background-color: rgb(99, 30, 84);
+    width: 150px;
+    height: 150px;
+    float: left;
+    clear: right;
+}
+
+div#DD {
+    background-color: rgb(42, 201, 55);
+    width: 150px;
+    height: 150px;
+    float: right;
+    clear: left;
+}
+
+div#EE {
+    background-color: rgb(211, 185, 36);
+    width: 150px;
+    height: 150px;
+    float: left;
+    clear: right;
+}
+
+table {
+    border: 2px;
+    border-style: solid;
+    border-color: black;
+    border-collapse: separate;
+    float: left;
+    clear: left;
+    font-size: xx-large;
+}
+
+td {
+    border-collapse: separate;
+    border-color: black;
+    border-style: solid;
+}
+
+div#contenedor {
+    width: 300px;
+    height: 750px;
+    border-style: solid;
+}
